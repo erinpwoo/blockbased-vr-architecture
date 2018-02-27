@@ -15,7 +15,7 @@ public class Codeblock_Model : MonoBehaviour {
 	// For Snap Detection
 	private GameObject closestObject;
 	private GameObject parentGameObject;
-	public GameObject[] blocks;
+	public GameObject[] blocks; 
 	public float distance;
 	public float threshold;
 	public bool parentable = false;
