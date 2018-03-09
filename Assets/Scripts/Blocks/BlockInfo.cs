@@ -9,15 +9,7 @@ public class BlockInfo : MonoBehaviour {
 	public string opcode;
 	public int param;
 	public TextMesh textObj;
-	// Use this for initialization
-	void Start () {
 
-	}
-
-	// Update is called once per frame
-	void Update () {
-
-	}
 
 	public void setOpcode(string op){
 		opcode = op;

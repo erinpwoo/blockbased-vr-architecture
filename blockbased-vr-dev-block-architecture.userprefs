@@ -1,13 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Blocks/Codeblock_Model.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ControllerBlock.cs">
     <Files>
-      <File FileName="Assets/Scripts/Blocks/BlockInfo.cs" Line="63" Column="26" />
-      <File FileName="Assets/Scripts/Blocks/BlockManager.cs" Line="18" Column="3" />
-      <File FileName="Assets/Scripts/Blocks/ModelBlock.cs" Line="12" Column="2" />
-      <File FileName="Assets/ViewBlock.cs" Line="4" Column="1" />
-      <File FileName="Assets/ControllerBlock.cs" Line="7" Column="2" />
-      <File FileName="Assets/Scripts/Blocks/Codeblock_Model.cs" Line="45" Column="19" />
+      <File FileName="Assets/ControllerBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Blocks/BlockInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Blocks/BlockManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Blocks/ModelBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Blocks/ViewBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Blocks/Codeblock_Model.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

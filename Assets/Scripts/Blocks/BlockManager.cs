@@ -6,11 +6,11 @@ public class BlockManager : MonoBehaviour {
 	public GameObject motionblock_moveforward;
 	public GameObject motionblock_turnRight;
 	public GameObject motionblock_turnLeft;
-	public GameObject spawnNode;
+	public GameObject spawnNode; --> moved to controller
 
     /// <summary>Spawns a "Move Forward" motion block at the spawn node.</summary>
     /// <param name="d"></param>
-	public void SpawnMoveForward(int d) {
+	public void SpawnMoveForward(int d) { 
 		GameObject clone;
 		clone = Instantiate(motionblock_moveforward, spawnNode.transform.position, spawnNode.transform.rotation) as GameObject;
 		clone.GetComponent<BlockInfo>().opcode = "move_forward";
